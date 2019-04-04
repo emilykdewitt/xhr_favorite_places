@@ -1,0 +1,94 @@
+{
+    "favoritePlaces": [
+    {
+        "cityName": "Granada",
+        "cityState": "Spain",
+        "cityImage":"https://www.barcelo.com/en-us/images/destination-granada-03-hotel-barcelo_tcm21-147677_w1024_h891_n.jpg",
+        "favoriteRestaurant": "Los Grifos",
+        "favoriteBar": "Bar Poe",
+        "favoriteHotel": "Hotel Palacio de Santa Paulo",
+        "favoriteTouristAttraction": "La Alhambra"
+    },
+    {
+        "cityName": "Boston",
+        "cityState": "Massachusetts",
+        "cityImage": "https://livability.com/sites/default/files/Boston-MA-TobinBridgeNight.jpg",
+        "favoriteRestaurant": "Mamma Maria",
+        "favoriteBar": "The Hawthorne",
+        "favoriteHotel": "The Godfrey",
+        "favoriteTouristAttraction": "The Freedom Trail"
+    },
+    {
+        "cityName":"New York",
+        "cityState": "New York",
+        "cityImage": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg",
+        "favoriteRestaurant": "Dons Bogam",
+        "favoriteBar": "Attaboy",
+        "favoriteHotel": "The Plaza",
+        "favoriteTouristAttraction": "Central Park"
+    },
+    {
+        "cityName": "Dubrovnik",
+        "cityState": "Croatia",
+        "cityImage":"https://cdn-03.independent.ie/life/travel/article31144868.ece/ad99f/AUTOCROP/w620/dubrovnik.JPG",
+        "favoriteRestaurant": "Azur",
+        "favoriteBar": "Buza Bar",
+        "favoriteHotel": "Hotel Dubrovnik",
+        "favoriteTouristAttraction": "Rector's Palace"
+    },
+    {
+        "cityName": "Lagos",
+        "cityState": "Portugal",
+        "cityImage": "https://amp.thenational.ae/image/policy:1.12194:1498906276/image/jpeg.jpg?f=16x9&w=1200&$p$f$w=dfa40e8",
+        "favoriteRestaurant": "Avenida Restaurante",
+        "favoriteBar": "Mynt Bar",
+        "favoriteHotel": "Hotel Marina Rio",
+        "favoriteTouristAttraction": "Praia Dona Ana"
+    },
+    {
+        "cityName": "Charleston",
+        "cityState": "South Carolina",
+        "cityImage": "https://travel.home.sndimg.com/content/dam/images/travel/stock/2017/9/5/iStock_Charleston-South-Carolina_522739970_xl.jpg.rend.hgtvcom.616.411.suffix/1504639655161.jpeg",
+        "favoriteRestaurant": "Charleston Grill",
+        "favoriteBar": "The Gin Joint",
+        "favoriteHotel": "Francis Marion Hotel",
+        "favoriteTouristAttraction": "Rainbow Row"
+    },
+    {
+        "cityName": "Savannah",
+        "cityState": "Georgia",
+        "cityImage": "https://icdn2.themanual.com/image/themanual/savannah-georgia.jpg",
+        "favoriteRestaurant": "The Olde Pink House",
+        "favoriteBar": "Rocks on the Roof",
+        "favoriteHotel": "The Bohemian Hotel",
+        "favoriteTouristAttraction": "Forsyth Park"
+    },
+    {
+        "cityName": "Atlanta",
+        "cityState":"Georgia",
+        "cityImage": "https://www.hillsdale.edu/wp-content/uploads/2017/01/atlanta-800x800.jpg",
+        "favoriteRestaurant": "Canoe",
+        "favoriteBar": "Bar Margot",
+        "favoriteHotel": "Ritz-Carlton",
+        "favoriteTouristAttraction": "Sky View Atlanta"
+    },
+    {
+        "cityName": "San Diego",
+        "cityState": "California",
+        "cityImage": "https://www.mintz.com/sites/default/files/media/images/2018-04-23/Office_Home_SanDiego_Mintz.jpg",
+        "favoriteRestaurant": "Juniper & Ivy",
+        "favoriteBar": "The Lion's Share",
+        "favoriteHotel": "Hotel Indigo",
+        "favoriteTouristAttraction": "Balboa Park"
+    },
+    {
+        "cityName": "London",
+        "cityState": "England",
+        "cityImage": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg",
+        "favoriteRestaurant": "The Ledbury",
+        "favoriteBar": "Fleet Street Pub",
+        "favoriteHotel": "Corinthia Hotel",
+        "favoriteTouristAttraction": "The Globe Theatre"
+    }
+]
+}
