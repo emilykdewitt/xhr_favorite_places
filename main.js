@@ -9,16 +9,18 @@ let places = [];
 
 const domStringBuilder = (array) => {
     let domString = '';
+    domString += `<div class="container">`;
+    domString +=    `<div class="row">`;
     array.forEach((place) => {
-        domString += `<div class="container">`;
-        domString +=    `<div class="row">`;
-        domString +=        `<div class="col-4">`;
-        domString +=            `<h3>${place.cityName}, ${place.cityState}`;
-        domString +=            `<img src="${place.cityImage}">`;
-        domString +=        `</div>`;
+        domString += `<div class="col-4">`;
+        domString +=    `<div class="placeCard">`;
+        domString +=        `<img class="placeImage" src="${place.cityImage}">`;
+        domString +=        `<h3>${place.cityName}, ${place.cityState}`;
         domString +=    `</div>`;
-        domString += `</div>`;
+        domString +=  `</div>`;
     })
+    domString +=    `</div>`;
+    domString += `</div>`;
     printToDom('placeCards', domString);
 };
 
