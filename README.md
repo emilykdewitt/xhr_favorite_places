@@ -1,4 +1,4 @@
-# Sorting Hat
+# My Favorite Places
 
 ## Description
 This application allows the user to view images and basic information about some of my favorite places I've visited or lived. Each place is displayed on a card that has an image of the city along with my favorite bar, restaurant, and tourist attraction for each location.
