@@ -1,11 +1,49 @@
 body {
     background-color: lightgrey;
+    text-align: center;
 }
 
-.col-4 {
-    width: 30%;
+h1 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+h4 {
+    color: rgb(43, 9, 59);
+    font-size: 1.35em;
+    margin-top: 5px;
+}
+
+p {
+    color: rgb(43, 9, 59);
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.col {
+    margin-top: 20px;
+}
+
+.col-sm-9 {
+    margin-top: 40px;
+}
+
+.col-9 {
+    margin-top: 40px;
 }
 
 .placeImage {
     width: 100%;
+}
+
+.placeCard {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(21, 6, 56);
 }
